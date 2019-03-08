@@ -1,8 +1,9 @@
 # Sports Web site and Administration
-Web app using CGI scripts, MySQL, HTML, CSS
+Web app using Python, CGI scripts, MySQL, HTML, CSS
 
 ## Class information
 CST363: Database Systems - team Project 1.1 at CSU Monterey Bay, done by Evgenia Nikulyak, Thach Doan, and Lacey Sikes.
+
 Database design - Part1 : OLTP (online transaction processing, Part2: OLAP (online analytical processing)
                                                                             
 ## Application configuration
