@@ -2,9 +2,9 @@
 Web app using CGI scripts, MySQL, HTML, CSS
 
 ## Class information
-CST363: Database Systems - Project 1.1  at CSUMB: Database design - Part1 : OLTP (online transaction processing)
-                                                                    Part2: OLAP (online analytical processing)        
-
+CST363: Database Systems - team Project 1.1 at CSU Monterey Bay, done by Evgenia Nikulyak, Thach Doan, and Lacey Sikes.
+Database design - Part1 : OLTP (online transaction processing, Part2: OLAP (online analytical processing)
+                                                                            
 ## Application configuration
 Application configuration is stored in **appconfig.py** file. Set desired MySQL connection configuration there (database_* parameters). 
 
