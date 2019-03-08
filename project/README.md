@@ -1,7 +1,7 @@
 # Sports Web site and Administration
 
 ## Class information
-CST363: Database Systems - Project 1.1  at CSUMB: Web app using CGI scripts, MySQL, HTML, CSS
+CST363: Database Systems - Project 1.1  at CSUMB: Web app using Python, CGI scripts, MySQL, HTML, CSS
 
 ## Application configuration
 Application configuration is stored in **appconfig.py** file. Set desired MySQL connection configuration there (database_* parameters). 
